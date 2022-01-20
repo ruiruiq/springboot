@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e01d356b-43d3-4ed2-8b70-76f165b69d18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\ProgramFiles\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="1fru7wZepIUqJluPERzsekg3bKq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/shooping-management-system-example-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RunManager" selected="JUnit.Check.fun">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <module name="FileNameCounter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakleName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TakleName" />
+      <module name="FileNameCounter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check.fun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileNameCounter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Check" />
+      <option name="METHOD_NAME" value="fun" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetFileName.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileNameCounter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetFileName" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakleName.fun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FileNameCounter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TakleName" />
+      <option name="METHOD_NAME" value="fun" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Check.fun" />
+        <item itemvalue="JUnit.TakleName.fun" />
+        <item itemvalue="Application.TakleName" />
+        <item itemvalue="Application.Check" />
+        <item itemvalue="JUnit.GetFileName.t1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e01d356b-43d3-4ed2-8b70-76f165b69d18" name="Default Changelist" comment="" />
+      <created>1596988368347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596988368347</updated>
+      <workItem from="1596988387333" duration="2406000" />
+      <workItem from="1597038620055" duration="3612000" />
+      <workItem from="1597063590988" duration="53000" />
+      <workItem from="1597063817196" duration="144000" />
+      <workItem from="1597122866108" duration="1229000" />
+      <workItem from="1597480169522" duration="508000" />
+      <workItem from="1597934667153" duration="586000" />
+      <workItem from="1597985176308" duration="4002000" />
+      <workItem from="1598079954343" duration="1292000" />
+      <workItem from="1599120837464" duration="440000" />
+      <workItem from="1614594641398" duration="80000" />
+      <workItem from="1635842838763" duration="380000" />
+      <workItem from="1636718018391" duration="3660000" />
+      <workItem from="1637025520733" duration="820000" />
+      <workItem from="1637026510564" duration="482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1635843224356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1635843224356" />
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1637026939286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1637026939286" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1637026458727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1637026458727" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1637026732995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637026732995" />
+    <state x="334" y="228" key="new project wizard" timestamp="1637026991391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="228" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1637026991391" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1637026229174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637026229174" />
+  </component>
+</project>
